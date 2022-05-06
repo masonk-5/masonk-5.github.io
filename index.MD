@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="background.css">
 Mason Kirchhoefer
 </head>
 <body>
