@@ -13,7 +13,7 @@ Mason Kirchhoefer
   <li>Pizza</li>
   <li>Seafood</li>
   <li>Steak</li>
-  <li>Bacon Egg Cheese Sandwitch</li>
+  <li>Bacon Egg Cheese Sandwich</li>
 </ol>
  
  <p>Link to food network:</p>
