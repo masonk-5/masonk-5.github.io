@@ -19,11 +19,11 @@ Mason Kirchhoefer
 
  <a href= "https://www.foodnetwork.com/">https://www.foodnetwork.com/ </a> <br>
  
- <a href= "README.md">Link to page 1 </a> <br>
- <a href= "page2.html">Link to page 2 </a> <br>
- <a href= "page4.html">Link to page 4 </a> <br>
- <a href= "page5.html">Link to page 5 </a> <br> 
- <a href= "page6.html">Link to page 6 </a> <br>
+ <a href= "Index.md">Link to page 1 </a> <br>
+ <a href= "Page One.MD">Link to page 2 </a> <br>
+ <a href= "Page Two.MD">Link to page 4 </a> <br>
+ <a href= "Page Three.MD">Link to page 5 </a> <br> 
+ <a href= "Page Four.MD">Link to page 6 </a> <br>
  
 </body>
 </html>
