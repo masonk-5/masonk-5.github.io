@@ -6,13 +6,13 @@ Mason Kirchhoefer
 <body>
 
 <h1>List Page</h1>
-<p>This page will have a list of my favorite professional sports teams.</p>
+<p>This page will have a list of my favorite foods.</p>
  
  <ol>
-  <li>St. Louis Cardinals</li>
-  <li>St. Louis Blues</li>
-  <li>Kansas City Cheifs</li>
-  <li>Oklahoma City Thunder</li>
+  <li>Pizza</li>
+  <li>Seafood</li>
+  <li>Steak</li>
+  <li>Bacon Egg Cheese Sandwitch</li>
 </ol>
 
  <a href= "README.md">Link to page 1 </a> <br>
