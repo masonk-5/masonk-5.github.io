@@ -3,18 +3,27 @@
 <head>
 Mason Kirchhoefer
 </head>
-<body>
+<body style="background-color:blue;">
 
-<h1>List Page</h1>
-<p>This page will have a list of my favorite professional sports teams.</p>
+<h1>Cool Text Part 2 + Block of Code</h1>
+
+<p style="color:red;">This text is colored</p>
  
- <ol>
-  <li>St. Louis Cardinals</li>
-  <li>St. Louis Blues</li>
-  <li>Kansas City Cheifs</li>
-  <li>Oklahoma City Thunder</li>
-</ol>
+ 
+<p>
+import csv
 
+
+def file_name(): 
+number_file_name = input("What is the file you are trying to open? ")
+    
+    if number_file_name == 'credit_card_2020.csv':
+        return number_file_name
+    else:
+        print("unable to locate file. Please try again. ")
+        file_name()
+ </p>
+ 
  <a href= "index.MD">Link to page 1 </a> <br>
  <a href= "Page One.MD">Link to page 2 </a> <br>
  <a href= "Page Two.MD">Link to page 3 </a> <br>
