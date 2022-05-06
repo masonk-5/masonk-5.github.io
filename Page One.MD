@@ -5,16 +5,11 @@ Mason Kirchhoefer
 </head>
 <body>
 
-<h1>List Page</h1>
-<p>This page will have a list of my favorite professional sports teams.</p>
+<h1>Cardinals</h1>
+<p>Picture of the St. Louis Cardinals</p>
  
- <ol>
-  <li>St. Louis Cardinals</li>
-  <li>St. Louis Blues</li>
-  <li>Kansas City Cheifs</li>
-  <li>Oklahoma City Thunder</li>
-</ol>
-
+ <img src="pujols.png" alt="Albert">
+ 
  <a href= "index.MD">Link to page 1 </a> <br>
  <a href= "Page One.MD">Link to page 2 </a> <br>
  <a href= "Page Two.MD">Link to page 3 </a> <br>
