@@ -6,7 +6,7 @@ Mason Kirchhoefer
 </head>
 <body>
 
-<h1 style="color:blue;">List Page</h1>
+<h1 style="color:blue;">Home Page With List</h1>
 <p>This page will have a list of my favorite foods.</p>
  
  <ol>
